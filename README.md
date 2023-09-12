@@ -1,2 +1,2 @@
 # ProjetoPDI
-Repositório destina ao projeto da disciplina de Processamento Digital de Imagens
+Repositório destinado ao projeto da disciplina de Processamento Digital de Imagens
